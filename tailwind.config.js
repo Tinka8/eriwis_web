@@ -7,6 +7,8 @@ module.exports = {
       colors: {
         'lightbrown' : '#64574b',
         'darkbrown' : '#3b3534',
+        'darkorange' : '#be6254',
+        'darkblue' : '#27455f',
       
       }
     },
