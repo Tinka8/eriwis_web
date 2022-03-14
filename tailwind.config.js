@@ -9,6 +9,8 @@ module.exports = {
         'darkbrown' : '#3b3534',
         'darkorange' : '#be6254',
         'darkblue' : '#27455f',
+        'brown' : '#988c81',
+        'gray' : '#767776',
       
       }
     },
